@@ -1,7 +1,4 @@
-# 📊 Dashboard Comercial con Datos Enriquecidos - Excel
-
-![Dashboard](dashboard/Dashboard_Screenshot.png)
-![Datos Enriquecidos](dashboard/Generated-dataset.png)
+# 📊 Dashboard Comercial con Datos Generados (simulados) - Excel
 
 ## 🎯 SOLUCIÓN PRÁCTICA Y EFECTIVA
 
