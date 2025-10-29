@@ -14,6 +14,24 @@
 - **Actualización con un clic** de todo el dashboard
 - **Segmentación interactiva** sin programación compleja
 
+## 📈 Valor Agregado: Análisis de Productos
+
+### Problema de Negocio Resuelto:
+**"No sabemos qué productos son más rentables en cada región o temporada"**
+
+### Solución Implementada:
+- **Ranking dinámico** de top 5 productos en cualquier segmento
+- **Análisis comparativo** entre regiones y períodos
+- **Identificación de oportunidades** por producto
+
+### Métricas de Impacto:
+| Escenario | Beneficio |
+|-----------|-----------|
+| **Regional** | Identificar productos estrella por zona |
+| **Temporal** | Ajustar inventario por estacionalidad |
+| **Por Vendedor** | Optimizar portafolio por performance |
+| **Por Categoría** | Enfocar marketing en líneas rentables |
+
 ## 💰 ROI de la Solución
 
 | Métrica | Valor |
