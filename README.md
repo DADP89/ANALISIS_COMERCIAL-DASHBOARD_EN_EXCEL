@@ -2,11 +2,17 @@
 
 ### **Tecnologías Usadas Efectivamente:**
 ✅ **Segmentación de Datos Nativa** - Filtros interactivos sin VBA.
+
 ✅ **Escala de Timeline Integrada** - Análisis temporal nativo de Excel.
+
 ✅ **Base de Datos Enriquecida** - Con columnas calculadas (Total Venta, Total Costo, Margen Producto).
+
 ✅ **Macros Estratégicas** - Solo para generación de datos y actualización.
+
 ✅ **Fórmulas Nativas** - Cálculos directos en el dataset.
+
 ✅ **Campos calculados** - Cálculos sobre tablás dinámicas.
+
 
 ### **Columnas del Dataset Implementadas:**
 | Columna | Tipo | Descripción |
