@@ -19,12 +19,19 @@
 
 ### **Capa de Datos:**
 Raw Data (Generada por VBA)
+
 ↓
+
 Columnas Calculadas (Fórmulas Excel)
+
 ↓
+
 Tabla Excel Estructurada
+
 ↓
+
 Tablas Dinámicas + Segmentación
+
 
 ### **Capa de Presentación:**
 - **Dashboard con KPIs** - Fórmulas directas vinculadas a tablas dinámicas.
