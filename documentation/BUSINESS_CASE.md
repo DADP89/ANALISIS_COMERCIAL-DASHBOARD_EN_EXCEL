@@ -1,49 +1,28 @@
-# Caso de Negocio: Valor Real Deliverado
+# Caso de Negocio
 
-## 📈 Problemas Resueltos con esta Implementación
+## Problema
+Empresas necesitan analizar ventas rápidamente pero enfrentan:
+- Datos dispersos en múltiples fuentes
+- Tiempo excesivo en reportes manuales
+- Dificultad para identificar tendencias
+- Falta de visibilidad en rentabilidad por producto
 
-### **Antes:**
-- Datos dispersos en múltiples hojas
-- Cálculos manuales de margen por producto
-- Tiempo perdido en actualizar reportes
-- Dificultad para analizar tendencias temporales
+## Solución
+Dashboard Excel que proporciona:
+- Consolidación automática de datos
+- Análisis visual interactivo
+- Segmentación por región/vendedor
+- Escala temporal integrada
+- Ranking de productos top
 
-### **Después:**
-- **Dataset centralizado** con cálculos automáticos
-- **Análisis de rentabilidad** por categoría de producto (inmediato)
-- **Actualización con un clic** de todo el dashboard
-- **Segmentación interactiva** sin programación compleja
+## Beneficios
+- **Reducción de tiempo**: Reportes en minutos vs horas
+- **Mejor toma de decisiones**: Datos actualizados en tiempo real
+- **Análisis self-service**: Sin dependencia de IT
+- **Identificación de oportunidades**: Productos y regiones más rentables
 
-## 📈 Valor Agregado: Análisis de Productos
-
-### Problema de Negocio Resuelto:
-**"No sabemos qué productos son más rentables en cada región o temporada"**
-
-### Solución Implementada:
-- **Ranking dinámico** de top 5 productos en cualquier segmento
-- **Análisis comparativo** entre regiones y períodos
-- **Identificación de oportunidades** por producto
-
-### Métricas de Impacto:
-| Escenario | Beneficio |
-|-----------|-----------|
-| **Regional** | Identificar productos estrella por zona |
-| **Temporal** | Ajustar inventario por estacionalidad |
-| **Por Vendedor** | Optimizar portafolio por performance |
-| **Por Categoría** | Enfocar marketing en líneas rentables |
-
-## 💰 ROI de la Solución
-
-| Métrica | Valor |
-|---------|-------|
-| Tiempo de generación de reportes | De 2h a 2min |
-| Análisis de rentabilidad por producto | Automatizado |
-| Capacidad de segmentación | Multi-dimensional |
-| Mantenimiento requerido | Mínimo |
-
-## 🎯 Para qué tipos de empresas es perfecta:
-
-- **PYMES** que necesitan empezar rápido con analytics
-- **Equipos comerciales** sin especialistas en BI
-- **Empresas** que prefieren soluciones mantenibles
-- **Proyectos** que requieren implementación inmediata
+## KPIs Medibles
+- Ventas totales y tendencias
+- Margen bruto por segmento
+- ROI de esfuerzos comerciales
+- Participación por categoría
