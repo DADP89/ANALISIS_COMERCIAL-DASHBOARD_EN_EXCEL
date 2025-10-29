@@ -18,19 +18,13 @@
 ## 🏗️ Arquitectura de la Solución
 
 ### **Capa de Datos:**
-Raw Data (Generada por VBA)
+-> Raw Data (Generada por VBA).
 
-↓
+-> Columnas Calculadas (Fórmulas Excel).
 
-Columnas Calculadas (Fórmulas Excel)
+-> Tabla Excel Estructurada.
 
-↓
-
-Tabla Excel Estructurada
-
-↓
-
-Tablas Dinámicas + Segmentación
+-> Tablas Dinámicas + Segmentación.
 
 
 ### **Capa de Presentación:**
