@@ -1,9 +1,3 @@
-
----
-
-## **Ajustes en el BUSINESS_CASE.md**
-
-```markdown
 # Caso de Negocio: Valor Real Deliverado
 
 ## 📈 Problemas Resueltos con esta Implementación
