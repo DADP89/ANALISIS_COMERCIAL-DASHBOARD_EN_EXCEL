@@ -26,7 +26,7 @@
 
 ### Top 5 Productos
 - Tabla dinámica que respeta todos los filtros
-- Muestra: Producto, Cantidad, Ventas, Participación
+- Muestra: Producto y Cantidad.
 
 ## Macros Implementadas
 ### GenerarDatosVentas()
