@@ -1,39 +1,61 @@
-# 📊 Dashboard Comercial con Datos Generados (simulados) - Excel
+# Guía de Usuario
 
-## 🎯 SOLUCIÓN PRÁCTICA Y EFECTIVA
+## Primeros Pasos
+1. Abrir `Proyecto_ventas.xlsm`
+2. Habilitar macros cuando se solicite
+3. Navegar a la hoja "Dashboard"
 
-**Problema:** Empresas necesitan análisis comercial rápido sin complejidad técnica  
-**Solución:** Dashboard con datos enriquecidos y segmentación nativa lista en horas, no semanas
+## Controles Principales
 
-### **Características Clave:**
-🚀 **Implementación Rápida** - Solo 2 macros esenciales  
-📈 **Datos Enriquecidos** - Cálculos de margen incluidos  
-🎛️ **Segmentación Nativa** - Mejor rendimiento que VBA  
-⏱️ **Actualización Instantánea** - Un clic sincroniza todo  
+### Segmentación de Datos
+- **Selector Región**: Filtrar por zona geográfica
+- **Selector Vendedor**: Filtrar por comercial
+- **Multi-selección**: Mantener Ctrl para seleccionar múltiples
 
-### **Tecnologías Usadas:**
-| Componente | Tecnología | Ventaja |
-|------------|------------|---------|
-| Datos | Excel + VBA (mínimo) | Fácil mantenimiento |
-| Filtros | Segmentación nativa | Mejor performance |
-| Análisis temporal | Timeline nativo | Integración perfecta |
-| Cálculos | Fórmulas Excel | Transparencia total |
+### Escala de Tiempo
+- Ubicada sobre el gráfico de ventas mensuales
+- **Seleccionar período**: Arrastrar sobre la escala
+- **Cambiar zoom**: Botones +/- o rueda del mouse
 
-## 🚀 EMPIEZA EN 2 MINUTOS
+### Botón Actualizar
+- Sincroniza todos los componentes del dashboard
+- Usar después de modificar datos base
 
-1. **Descarga** el archivo `.xlsm`
-2. **Habilita macros** para generación de datos
-3. **Explora** las segmentaciones y timeline
-4. **Personaliza** fórmulas según tu negocio
+## Análisis Disponibles
 
-## 🔧 PARA CLIENTES TÉCNICOS
+### KPIs Principales
+- Ventas Totales, Margen Bruto, Cantidad Vendida, ROI
+- Se actualizan automáticamente con los filtros
 
-**Transparencia Total:** 
-- Solo pocas líneas de VBA
-- 100% fórmulas nativas visibles
-- Estructura de datos documentada
-- Fácil de auditar y modificar
+### Top 5 Productos
+- Ranking dinámico basado en filtros activos
+- Muestra productos más vendidos por cantidad
 
----
+### Gráficos
+- Ventas mensuales (tendencia)
+- Ventas por categoría (distribución)
+- Top vendedores (performance)
+- Ventas por región (geografía)
+- Top productos vendidos
 
-**¿Necesitas una solución de analytics que funcione HOY?** Este dashboard está listo para implementar.
+## Ejemplos de Uso
+
+### Análisis por Región
+1. Seleccionar región en segmentación
+2. Observar cambios en KPIs y Top 5 productos
+3. Comparar con otras regiones
+
+### Análisis Temporal  
+1. Seleccionar rango en escala de tiempo
+2. Identificar tendencias estacionales
+3. Comparar períodos diferentes
+
+### Análisis de Productos
+1. Aplicar filtros deseados
+2. Revisar Top 5 productos resultante
+3. Identificar oportunidades por segmento
+
+## Solución de Problemas
+- **Macros no habilitadas**: Habilitar contenido al abrir archivo
+- **Datos no actualizan**: Click en botón "Actualizar"
+- **Filtros no funcionan**: Verificar conexión de tablas dinámicas
